@@ -50,7 +50,7 @@ Greetings! I am a Research Assistant in the Computer Science at Cloud and Distri
 
 - <span class="conf_title_badge">TPDS 2022</span> [An in-depth study of microservice call graph and runtime performance](https://ieeexplore.ieee.org/abstract/document/9774016), Shutian Luo, Huanle Xu, **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Liping Zhang, Jian He, Chengzhong Xu <span class='show_paper_citations' data='XRi4i9kAAAAJ:W7OEmFMy1HYC'></span>
 
-- <span class="conf_title_badge">SoCC 2021</span> [Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis](https://ieeexplore.ieee.org/abstract/document/9774016), Shutian Luo, Huanle Xu, **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Liping Zhang, Yu Ding, Jian He, Chengzhong Xu <span class="conf_title_badge">Best Paper Award</span> <span class='show_paper_citations' data='XRi4i9kAAAAJ:LkGwnXOMwfcC'></span>
+- <span class="conf_title_badge">SoCC 2021</span> [Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis](https://ieeexplore.ieee.org/abstract/document/9774016), Shutian Luo, Huanle Xu, **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Liping Zhang, Yu Ding, Jian He, Chengzhong Xu <span class="best_paper_badge">Best Paper Award</span> <span class='show_paper_citations' data='XRi4i9kAAAAJ:LkGwnXOMwfcC'></span>
 
 - <span class="conf_title_badge">CLUSTER 2021</span> [RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556034), Wenyan Chen, **Chengzhi Lu**, Kejiang Ye, Yang Wang, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:Tyk-4Ss8FVUC'></span> 
 
