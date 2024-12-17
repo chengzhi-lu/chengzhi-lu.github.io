@@ -81,8 +81,8 @@ Greetings! I am a Research Assistant in the Computer Science at Cloud and Distri
 - *2024.11*, SC 2024，SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing. *Atlanta, USA*
 
 # 🧑‍🎨 Teaching
-- *2021 Winter*, Teaching Assistant. Computer Network, SIAT
+- *2021 Winter*, Teaching Assistant. Computer Network, SIAT.
 
 # 💻 Internships
-- *2020.01-2021.02*, Alibaba Group, Reseach Intern.
 - *2022.02-now*, University of Macau, Reseach Assistant.
+- *2020.01-2021.02*, Alibaba Group, Reseach Intern.
