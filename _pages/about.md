@@ -50,13 +50,13 @@ Greetings! I am a Research Assistant in the Computer Science at Cloud and Distri
 
 - <span class="conf_title_badge">TPDS 2022</span> [An in-depth study of microservice call graph and runtime performance](https://ieeexplore.ieee.org/abstract/document/9774016), Shutian Luo, Huanle Xu, **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Liping Zhang, Jian He, Chengzhong Xu. <span class='show_paper_citations' data='XRi4i9kAAAAJ:W7OEmFMy1HYC'></span>
 
-- <span class="conf_title_badge">SoCC 2021</span> [Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis](https://ieeexplore.ieee.org/abstract/document/9774016), Shutian Luo, Huanle Xu, **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Liping Zhang, Yu Ding, Jian He, Chengzhong Xu. <span class="best_paper_badge">Best Paper Award</span> <span class='show_paper_citations' data='XRi4i9kAAAAJ:LkGwnXOMwfcC'></span>
+- <span class="conf_title_badge">SoCC 2021</span> [Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis](https://dl.acm.org/doi/10.1145/3472883.3487003), Shutian Luo, Huanle Xu, **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Liping Zhang, Yu Ding, Jian He, Chengzhong Xu. <span class="best_paper_badge">Best Paper Award</span> <span class='show_paper_citations' data='XRi4i9kAAAAJ:LkGwnXOMwfcC'></span>
 
 - <span class="conf_title_badge">CLUSTER 2021</span> [RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556034), Wenyan Chen, **Chengzhi Lu**, Kejiang Ye, Yang Wang, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:Tyk-4Ss8FVUC'></span> 
 
 - <span class="conf_title_badge">HPBD&IS 2020</span> [Understanding the workload characteristics in alibaba: A view from directed acyclic graph analysis](https://ieeexplore.ieee.org/abstract/document/9130578/), **Chengzhi Lu**, Wenyan Chen, Kejiang Ye, Cheng-Zhong Xu. <span class='show_paper_citations' data='XRi4i9kAAAAJ:Y0pCki6q_DkC'></span> 
 
-- <span class="conf_title_badge">HPCC 2020</span> [Interference analysis of co-located container workloads: a perspective from hardware performance counters](https://ieeexplore.ieee.org/abstract/document/9130578/), Wenyan Chen, Kejiang Ye, **Chengzhi Lu**, Dongdai Zhou, Chengzhong Xu. <span class='show_paper_citations' data='XRi4i9kAAAAJ:YsMSGLbcyi4C'></span> 
+- <span class="conf_title_badge">JCST 2020</span> [Interference analysis of co-located container workloads: a perspective from hardware performance counters](https://link.springer.com/article/10.1007/s11390-020-9707-y), Wenyan Chen, Kejiang Ye, **Chengzhi Lu**, Dongdai Zhou, Chengzhong Xu. <span class='show_paper_citations' data='XRi4i9kAAAAJ:YsMSGLbcyi4C'></span> 
 
 - <span class="conf_title_badge">ICPADS 2020</span> [ADGS: anomaly detection and localization based on graph similarity in container-based clouds](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8975844), **Chengzhi Lu**, Kejiang Ye, Wenyan Chen, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:d1gkVwhDpl0C'></span> 
 
