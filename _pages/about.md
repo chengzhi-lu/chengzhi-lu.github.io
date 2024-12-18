@@ -80,6 +80,7 @@ Greetings! I am a Research Assistant in the Computer Science at Cloud and Distri
 - *2024.12*, ChinaSys 2024 Fall，SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing. *Tianjin, China*  
 - *2024.11*, ShanCheng Conference 2024，SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing. *Chongqing, China*
 - *2024.11*, SC 2024，SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing. *Atlanta, USA*
+- *2023.06*, ChinaSys 2023 Summer, Understanding and Optimizing Workloads for Unified Resource Management in Large Cloud Platforms. *Wuhan, China*
 
 # 🧑‍🎨 Teaching
 - *2021 Winter*, Teaching Assistant. Computer Network, SIAT.
