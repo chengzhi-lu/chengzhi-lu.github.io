@@ -72,7 +72,7 @@ Greetings! I am a Research Assistant in the Computer Science at Cloud and Distri
 
 # 📖 Educations
 - *2019.09 - now*, PhD, Computer Science, University of Chinese Academy of Sciences.
-- *2016.09 - 2018.09*, Master. Software Engineering, Zhejiang University.
+- *2016.09 - 2018.09*, Master, Software Engineering, Zhejiang University.
 - *2012.09 - 2016.06*, BS, Computer Science, Wuhan University. 
 
 # 💬 Talks
