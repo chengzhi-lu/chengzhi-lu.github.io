@@ -62,7 +62,8 @@ Welcome to my homepage! I am a Research Assistant in the Cloud and Distributed S
 
 - <span class="conf_title_badge">ICPADS 2018</span> [Modeling application performance in docker containers using machine learning techniques](https://ieeexplore.ieee.org/abstract/document/8644581/), Kejiang Ye, Yanmin Kou, **Chengzhi Lu**, Yang Wang, Chengzhong Xu. <span class='show_paper_citations' data='XRi4i9kAAAAJ:_FxGoFyzp5QC'></span> 
 
-- <span class="conf_title_badge">BigData 2017</span> [Imbalance in the cloud: An analysis on alibaba cluster trace](https://ieeexplore.ieee.org/abstract/document/8258257/), **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Cheng-Zhong Xu, Tongxin Bai. <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XRi4i9kAAAAJ&citation_for_view=XRi4i9kAAAAJ:WF5omc3nYNoC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+- <span class="conf_title_badge">BigData 2017</span> [Imbalance in the cloud: An analysis on alibaba cluster trace](https://ieeexplore.ieee.org/abstract/document/8258257/), **Chengzhi Lu**, Kejiang Ye, Guoyao Xu, Cheng-Zhong Xu, Tongxin Bai. 
+<!-- <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XRi4i9kAAAAJ&citation_for_view=XRi4i9kAAAAJ:WF5omc3nYNoC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  -->
 <!-- <strong><span class='show_paper_citations' data='XRi4i9kAAAAJ:WF5omc3nYNoC'></span></strong> -->
 
 # 🎖 Honors and Awards
