@@ -117,7 +117,7 @@ h1:before, .anchor:before {
     margin-left: .5em;
     color: white;
     background-color: #7f4230;
-    border-radius: 1rem; /* 圆角 */
+    border-radius: .5rem; /* 圆角 */
     font-size: .8em;
 }
 
@@ -131,6 +131,6 @@ h1:before, .anchor:before {
     color: white;
     background-color: green; /* 深色背景，提高对比度 */
     font-size: .8em;
-    border-radius: 1rem; /* 圆角 */
+    border-radius: .5rem; /* 圆角 */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加阴影，进一步提升视觉效果 */
 }
