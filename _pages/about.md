@@ -75,9 +75,9 @@ I expect to enter the job market in 2025 and am currently seeking a position in 
 - *2018.07*, Outstanding graduates, ZJU
 
 # 📖 Educations
-- *2019.09 - now*, PhD, Computer Science, University of Chinese Academy of Sciences.
+- *2019.09 - 2025.01*, Ph.D., Computer Science, University of Chinese Academy of Sciences.
 - *2016.09 - 2018.09*, Master, Software Engineering, Zhejiang University.
-- *2012.09 - 2016.06*, BS, Computer Science, Wuhan University. 
+- *2012.09 - 2016.06*, B.S., Computer Science, Wuhan University. 
 
 # 💬 Talks
 - *2024.12*, ChinaSys 2024 Fall，SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing. *Tianjin, China*  
