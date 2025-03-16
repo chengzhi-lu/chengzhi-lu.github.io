@@ -91,3 +91,6 @@ I expect to enter the job market in 2025 and am currently seeking a position in 
 # 💻 Internships
 - *2022.02-now*, University of Macau, Reseach Assistant.
 - *2020.01-2021.02*, Alibaba Group, Reseach Intern.
+
+# 💼 Services
+- *ICWS 2025* PC Member.
