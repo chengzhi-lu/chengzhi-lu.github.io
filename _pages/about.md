@@ -42,9 +42,9 @@ I expect to enter the job market in 2025 and am currently seeking a position in 
 </div>
 </div> -->
 
-- <span class="conf_title_badge">EuroSys 2025</span> <a href="pdfs/EuroSys25-slides.pdf">[Slides]<a href="pdfs/mudi.pdf">Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters</a>, Wenyan Chen, **Chengzhi Lu**, Huanle Xu, Kejiang Ye, Chengzhong Xu. 
+- <span class="conf_title_badge">EuroSys 2025</span> <a href="pdfs/mudi.pdf">Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters</a>, Wenyan Chen, **Chengzhi Lu**, Huanle Xu, Kejiang Ye, Chengzhong Xu. <a href="pdfs/EuroSys25-slides.pdf">[Slides]</a>
 
-- <span class="conf_title_badge">SC 2024</span> <a href="pdfs/SC24-slides.pdf">[Slides]<a href="pdfs/smiless.pdf"> SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing</a>, **Chengzhi Lu**, Huanle Xu, Yudan Li, Wenyan Chen, Kejiang Ye, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:ufrVoPGSRksC'></span>
+- <span class="conf_title_badge">SC 2024</span> <a href="pdfs/smiless.pdf"> SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing</a>, **Chengzhi Lu**, Huanle Xu, Yudan Li, Wenyan Chen, Kejiang Ye, Chengzhong Xu.<a href="pdfs/SC24-slides.pdf">[Slides]</a> <span class='show_paper_citations' data='WKFOF1cAAAAJ:ufrVoPGSRksC'></span>
 
 - <span class="conf_title_badge">ICWS 2024</span> [Planck: Optimizing LLM Inference Performance in Pipeline Parallelism with Fine-Grained SLO Constraint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10707384), Yanying Lin, Shijie Peng, Shuaipeng Wu, Yanbo Li, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye. <span class='show_paper_citations' data='XRi4i9kAAAAJ:HDshCWvjkbEC'></span>
 
