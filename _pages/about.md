@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am a Research Assistant in the Cloud and Distributed Systems (CDS) Lab at University of Macau (2022-Present), supervised by <span style="text-decoration: underline;">[Prof. Chengzhong Xu (须成忠)](https://www.fst.um.edu.mo/personal/czxu/)</span>,  <span style="text-decoration: underline;">[Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/)</span> and <span style="text-decoration: underline;">[Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. My research interests focus on cloud computing, serverless, systems for ML. <a href='https://scholar.google.com/citations?user=XRi4i9kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Welcome to my homepage! I am currently a Postdoctoral Researcher in the Hyperscale Systems and Cloud Architecture Lab at Nanyang Technological University, working with <span style="text-decoration: underline;">[Prof. Dmitrii Ustiugov](https://ustiugov.github.io/)</span>. Previously, I was a Postdoc in the Cloud and Distributed Systems (CDS) Lab at the University of Macau (2025.01 – 2025.08), supervised by <span style="text-decoration: underline;">[Prof. Chengzhong Xu (须成忠)](https://www.fst.um.edu.mo/personal/czxu/)</span>,  <span style="text-decoration: underline;">[Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/)</span> and <span style="text-decoration: underline;">[Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. My research interests focus on cloud computing, serverless, systems for ML. <a href='https://scholar.google.com/citations?user=XRi4i9kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-I expect to enter the job market in 2025 and am currently seeking a position in academia or industry to contribute to the advancement of future compute systems. Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you are interested.
+Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you are interested.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 FlexPipe is accepted by EuroSys 2026. 
 - *2024.07*: &nbsp;🎉🎉 Mudi is accepted by EuroSys 2025. 
-- *2024.06*: &nbsp;🎉🎉 SMIless is accepted by SC 2024. 
 
 # 📝 Publications 
 
@@ -89,8 +89,9 @@ I expect to enter the job market in 2025 and am currently seeking a position in 
 - *2021 Winter*, Teaching Assistant. Computer Network, SIAT.
 
 # 💻 Internships
-- *2022.02-now*, University of Macau, Reseach Assistant.
+- *2022.02-2024.12*, University of Macau, Reseach Assistant.
 - *2020.01-2021.02*, Alibaba Group, Reseach Intern.
 
 # 💼 Service
+- *FAISys 2025* PC Member.
 - *ICWS 2025* PC Member.
