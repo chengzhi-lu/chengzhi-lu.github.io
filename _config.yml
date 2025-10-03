@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Chengzhi Lu"
 description              : "PhD, focus on resource management and job scheduling in large-scale cloud cluster. "
-repository               : "blinkbear/blinkbear.github.io"
+repository               : "chengzhi-lu/chengzhi-lu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chengzhi Lu (卢澄志)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Macau"
-  location         : "Macau, China"
+  bio              : "NTU Singapore"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XRi4i9kAAAAJ&hl=zh-CN"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "blinkbear"
+  github           : "chengzhi-lu"
   google_plus      :
   keybase          :
   instagram        :
