@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am currently a Postdoctoral Researcher in the Hyperscale Systems and Cloud Architecture Lab at Nanyang Technological University, working with <span style="text-decoration: underline;">[Prof. Dmitrii Ustiugov](https://ustiugov.github.io/)</span>. Previously, I was a Postdoc in the [Cloud and Distributed Systems (CDS) Lab](https://cds-macau.github.io/) at the University of Macau, supervised by <span style="text-decoration: underline;">[Prof. Chengzhong Xu (须成忠)](https://www.fst.um.edu.mo/personal/czxu/)</span>,  <span style="text-decoration: underline;">[Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/)</span> and <span style="text-decoration: underline;">[Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. My research interests focus on serverless, LLM serving optimization. <a href='https://scholar.google.com/citations?user=0rd91dYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Welcome to my homepage! I am currently a Postdoctoral Researcher in the Hyperscale Systems and Cloud Architecture Lab at Nanyang Technological University, working with <span style="text-decoration: underline;">[Prof. Dmitrii Ustiugov](https://ustiugov.github.io/)</span>. Previously, I was a Postdoc in the [Cloud and Distributed Systems (CDS) Lab](https://cds-macau.github.io/) at the University of Macau, supervised by <span style="text-decoration: underline;">[Prof. Chengzhong Xu (须成忠)](https://www.fst.um.edu.mo/personal/czxu/)</span>,  <span style="text-decoration: underline;">[Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/)</span> and <span style="text-decoration: underline;">[Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. <a href='https://scholar.google.com/citations?user=0rd91dYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you are interested.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+# ✨ Research Interests
+Cloud Computing: Resource management and task scheduling in the large-scale cluster
+LLM inference systems: Task scheduling, Hierarchy KVC management, Adaptive execution process optimization
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 eLLM is accepted by EuroSys 2026. 
