@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am currently a Postdoctoral Researcher in the Hyperscale Systems and Cloud Architecture Lab at Nanyang Technological University, working with <span style="text-decoration: underline;">[Prof. Dmitrii Ustiugov](https://ustiugov.github.io/)</span>. Previously, I was a Postdoc in the Cloud and Distributed Systems (CDS) Lab at the University of Macau (2025.01 – 2025.08), supervised by <span style="text-decoration: underline;">[Prof. Chengzhong Xu (须成忠)](https://www.fst.um.edu.mo/personal/czxu/)</span>,  <span style="text-decoration: underline;">[Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/)</span> and <span style="text-decoration: underline;">[Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. My research interests focus on cloud computing, serverless, systems for ML. <a href='https://scholar.google.com/citations?user=XRi4i9kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Welcome to my homepage! I am currently a Postdoctoral Researcher in the Hyperscale Systems and Cloud Architecture Lab at Nanyang Technological University, working with <span style="text-decoration: underline;">[Prof. Dmitrii Ustiugov](https://ustiugov.github.io/)</span>. Previously, I was a Postdoc in the Cloud and Distributed Systems (CDS) Lab at the University of Macau (2025.01 – 2025.08), supervised by <span style="text-decoration: underline;">[Prof. Chengzhong Xu (须成忠)](https://www.fst.um.edu.mo/personal/czxu/)</span>,  <span style="text-decoration: underline;">[Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/)</span> and <span style="text-decoration: underline;">[Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. My research interests focus on cloud computing, serverless, systems for ML. <a href='https://scholar.google.com/citations?user=0rd91dYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you are interested.
 
@@ -25,6 +25,7 @@ Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you a
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 eLLM is accepted by EuroSys 2026. 
 - *2025.08*: &nbsp;🎉🎉 FlexPipe is accepted by EuroSys 2026. 
 - *2024.07*: &nbsp;🎉🎉 Mudi is accepted by EuroSys 2025. 
 
@@ -41,8 +42,11 @@ Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- <span class="conf_title_badge">EuroSys 2026</span> <a href="pdfs/flexpipe.pdf">FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters</a>, Yanying Lin, Shijie Peng, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye.</a> <span class='show_paper_citations' data='0rd91dYAAAAJ:_FxGoFyzp5QC'>
 
-- <span class="conf_title_badge">EuroSys 2025</span> <a href="pdfs/mudi.pdf">Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters</a>, Wenyan Chen, **Chengzhi Lu**, Huanle Xu, Kejiang Ye, Chengzhong Xu. <a href="pdfs/EuroSys25-slides.pdf">[Slides]</a>
+- <span class="conf_title_badge">TSC 2025</span> [Serving LLM in Distributed GPU Cluster With Fine-Grain Pipeline Constraints](https://ieeexplore.ieee.org/abstract/document/11143904), Yanying Lin, Shijie Peng, Shuaipeng Wu, Yanbo Li, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye. <span class='show_paper_citations' data='0rd91dYAAAAJ:ufrVoPGSRksC'></span>
+
+- <span class="conf_title_badge">EuroSys 2025</span> <a href="pdfs/mudi.pdf">Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters</a>, Wenyan Chen, **Chengzhi Lu**, Huanle Xu, Kejiang Ye, Chengzhong Xu. <a href="pdfs/EuroSys25-slides.pdf">[Slides]</a> <span class='show_paper_citations' data='0rd91dYAAAAJ:eQOLeE2rZwMC'>
 
 - <span class="conf_title_badge">SC 2024</span> <a href="pdfs/smiless.pdf"> SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing</a>, **Chengzhi Lu**, Huanle Xu, Yudan Li, Wenyan Chen, Kejiang Ye, Chengzhong Xu.<a href="pdfs/SC24-slides.pdf">[Slides]</a> <span class='show_paper_citations' data='WKFOF1cAAAAJ:ufrVoPGSRksC'></span>
 
@@ -93,5 +97,7 @@ Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you a
 - *2020.01-2021.02*, Alibaba Group, Reseach Intern.
 
 # 💼 Service
+- *EuroDW '26* PC Member.
+- *TSC* Reviewer.
 - *FAISys 2025* PC Member.
 - *ICWS 2025* PC Member.
