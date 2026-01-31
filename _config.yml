@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengzhi Lu"
-description              : "PhD, focus on resource management and job scheduling in large-scale cloud cluster. "
+description              : "PhD, focus on resource management and task scheduling for ML system. "
 repository               : "chengzhi-lu/chengzhi-lu.github.io"
 google_scholar_stats_use_cdn : true
 
