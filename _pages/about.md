@@ -42,7 +42,7 @@ Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- <span class="conf_title_badge">EuroSys 2026</span> <a href="pdfs/flexpipe.pdf">FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters</a>, Yanying Lin, Shijie Peng, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye.</a> <span class='show_paper_citations' data='0rd91dYAAAAJ:_FxGoFyzp5QC'>
+- <span class="conf_title_badge">EuroSys 2026</span> <a href="pdfs/flexpipe.pdf">FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters</a>, Yanying Lin, Shijie Peng, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye. <span class='show_paper_citations' data='0rd91dYAAAAJ:_FxGoFyzp5QC'>
 
 - <span class="conf_title_badge">TSC 2025</span> [Serving LLM in Distributed GPU Cluster With Fine-Grain Pipeline Constraints](https://ieeexplore.ieee.org/abstract/document/11143904), Yanying Lin, Shijie Peng, Shuaipeng Wu, Yanbo Li, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye. <span class='show_paper_citations' data='0rd91dYAAAAJ:ufrVoPGSRksC'></span>
 
