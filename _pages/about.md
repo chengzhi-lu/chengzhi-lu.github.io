@@ -28,6 +28,9 @@ Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you a
 - LLM inference systems: Task scheduling, Hierarchy KVC management, Adaptive execution process optimization
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Aries is accepted by SoCC 2026 (Vision Track).
+- *2026.09*: &nbsp;🎉🎉 TokenScale is accepted by SoCC 2026.
+- *2026.07*: &nbsp;🎉🎉 ReliefServe is accepted by ICPP 2026.
 - *2026.01*: &nbsp;🎉🎉 eLLM is accepted by EuroSys 2026. 
 - *2025.08*: &nbsp;🎉🎉 FlexPipe is accepted by EuroSys 2026. 
 
