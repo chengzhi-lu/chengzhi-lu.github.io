@@ -44,7 +44,17 @@ Here is my <a href="pdfs/CV_eng_lucz.pdf">CV</a>. Feel free to email me if you a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- <span class="conf_title_badge">ICPP 2026</span> [ReliefServe: Relieving GPU Pressure in Multi-Model Serving via Selective CPU Escape](https://doi.org/10.1145/3832810.3832827), Shijie Peng, Yanying Lin, **Chengzhi Lu**, Shuaipeng Wu, Chengzhong Xu, Kejiang Ye. <span class='show_paper_citations' data='0rd91dYAAAAJ:Zph67rFs4hoC'></span>
+
+- <span class="conf_title_badge">arXiv 2026 (Preprint)</span> [Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries Experimentation Framework](https://arxiv.org/abs/2607.29069), Leonid Kondrashov, Hongrui Liu, JooYoung Park, Boxi Zhou, Zonghao Liu, **Chengzhi Lu**, Riccardo Mancini, Esha Choukse, Haris Javaid, German Sviridov, Tao Peng, Chen Zhao, Anastasia Avdeeva, Aleksei Gusev, Marios Kogias, Luo Mai, Dmitrii Ustiugov. <span class='show_paper_citations' data='0rd91dYAAAAJ:KlAtU1dfN6UC'></span>
+
+- <span class="conf_title_badge">EuroSys 2026</span> [High Throughput and Low Latency LLM Serving via Adaptive KV Caching](https://doi.org/10.1145/3767295.3803570), Wenyan Chen, **Chengzhi Lu**, Huanle Xu, Kejiang Ye, Chengzhong Xu. <span class='show_paper_citations' data='0rd91dYAAAAJ:kNdYIx-mwKoC'></span>
+
 - <span class="conf_title_badge">EuroSys 2026</span> <a href="pdfs/flexpipe.pdf">FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters</a>, Yanying Lin, Shijie Peng, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye. <span class='show_paper_citations' data='0rd91dYAAAAJ:_FxGoFyzp5QC'>
+
+- <span class="conf_title_badge">arXiv 2026 (Preprint)</span> [FASER: Fine-Grained Phase Management for Speculative Decoding in Dynamic LLM Serving](https://arxiv.org/abs/2604.20503), Wenyan Chen, **Chengzhi Lu**, Yanying Lin, Dmitrii Ustiugov. <span class='show_paper_citations' data='0rd91dYAAAAJ:3fE2CSJIrl8C'></span>
+
+- <span class="conf_title_badge">arXiv 2025 (Preprint)</span> [TokenScale: Timely and Accurate Autoscaling for Disaggregated LLM Serving with Token Velocity](https://arxiv.org/abs/2512.03416), Ruiqi Lai, Hongrui Liu, **Chengzhi Lu**, Zonghao Liu, Siyu Cao, Siyang Shao, Yixin Zhang, Luo Mai, Dmitrii Ustiugov. <span class='show_paper_citations' data='0rd91dYAAAAJ:0EnyYjriUFMC'></span>
 
 - <span class="conf_title_badge">TSC 2025</span> [Serving LLM in Distributed GPU Cluster With Fine-Grain Pipeline Constraints](https://ieeexplore.ieee.org/abstract/document/11143904), Yanying Lin, Shijie Peng, Shuaipeng Wu, Yanbo Li, **Chengzhi Lu**, Chengzhong Xu, Kejiang Ye. <span class='show_paper_citations' data='0rd91dYAAAAJ:ufrVoPGSRksC'></span>
 
